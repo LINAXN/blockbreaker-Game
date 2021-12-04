@@ -1,6 +1,6 @@
 # blockbreaker-Game
 BrickBreaker game 
- this game its jast one level . 
+ this game is only one level . 
  # instructions
  to move : "arrow key" , left and right 
  
