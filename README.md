@@ -2,7 +2,7 @@
 BrickBreaker game 
  this game is only one level . 
  # instructions
- to move : "arrow key" , left and right 
+ to move click "arrow key" , left and right .
  
  
  
@@ -10,7 +10,7 @@ BrickBreaker game
  
  
  
- if u lose or won press 
+ if u lose or won press ,
  "Enter key" to play again:
  
  
