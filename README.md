@@ -11,7 +11,7 @@ BrickBreaker game
  
  
  if u lose or won press 
- "Enter key" to play agien:
+ "Enter key" to play again:
  
  
  
